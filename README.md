@@ -1,5 +1,4 @@
 # The Noted Application
-This is a sample application for the book, Getting Started with OpenShift.
 
 It's a web app that allows users to `list, add, and delete` posts with content.
 
